@@ -88,3 +88,17 @@ placeholder {
         width: 400px;
     }
 }
+@media (min-width:400px) and (max-width:600px) {
+    h2 {
+        font-size: 10px;
+    }
+    p {
+        font-size: 10px;
+    }
+    .loginbox {
+        width:200px;
+    }
+    .logo {
+        width:200px;
+    }
+}
